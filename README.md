@@ -1,6 +1,7 @@
 # Project README - Chat GPT-3 Web App
 
-<img src="https://imgtr.ee/images/2023/07/21/2f09437949cef034df2a6c1604c2bee4.png" alt="2f09437949cef034df2a6c1604c2bee4.png" border="0" />
+
+<img width="1267" alt="Screenshot 2023-07-21 183410" src="https://github.com/nameerakhter/ReactJS_gpt3_web_app/assets/120779958/9188def6-0373-4bfa-9745-b191a34d4527">
 
 # Description
 This project is a web application that utilizes GPT-3 to create an interactive chatbot experience. The app serves as a landing page for Chat GPT-3, providing users with an intuitive and engaging interface. The landing page has been developed using ReactJS, ensuring responsiveness and compatibility across various devices and screen sizes. The project's primary focus is to optimize the user experience for both desktop and mobile users. The carefully crafted design elements aim to enhance user engagement and leave a lasting impression.
